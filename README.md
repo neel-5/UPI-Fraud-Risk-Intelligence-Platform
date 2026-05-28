@@ -146,10 +146,6 @@ The scoring engine combines:
 - Connected community size
 - Weak KYC adjustment
 
-## Suggested Viva Explanation
-
-This system models UPI transactions as a directed graph where accounts are nodes and payments are edges. Fraud risk is not predicted from a single transaction only; it is inferred from network behavior. The project detects mule-ring behavior through circular flows, shared devices, burst transfers, risky payment channels, and rapid movement of funds across connected accounts.
-
 ## Future Enhancements
 
 - Add supervised ML models trained on labelled transaction features.
