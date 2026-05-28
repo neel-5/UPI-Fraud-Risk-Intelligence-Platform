@@ -1,0 +1,8 @@
+{
+  "sender_id": "ACC0019",
+  "receiver_id": "ACC0115",
+  "amount": 24500,
+  "channel": "PAYMENT_LINK",
+  "city": "Mumbai",
+  "device_id": "DEV-NEW-1"
+}
